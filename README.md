@@ -20,7 +20,7 @@
 - 🌩️ Interested in **cloud infrastructure**, **OS internals**, **compilers**, and **distributed systems**
 - 🧪 Researching intent recognition using ML for prosthetic limbs
 - 🛠️ Languages: C, C++, Go, Python, C#, Java
-- 🐧 Tools: Git, Docker, K8s, Redis, Prometheus, SQL
+- 🐧 Tools: Git, Docker, K8s, Redis, Prometheus
 
 ---
 
