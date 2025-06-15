@@ -7,7 +7,7 @@
 
 ## 🔧 What I Build
 
-- ⚙️ [Distributed Rate Limiter](https://github.com/Kaston-C/distributed-rate-limiter) – Scalable rate limiting in Go with Redis, Docker, K8s, and Prometheus
+- 🚦 [Distributed Rate Limiter](https://github.com/Kaston-C/distributed-rate-limiter) – Scalable rate limiting in Go with Redis, Docker, K8s, and Prometheus
 - 🐚 [Custom Unix Shell](https://github.com/Kaston-C/shell) – C-based shell with piping, redirection, history, and autocompletion
 - 🧵 Multipart OS Simulator – Multicore OS emulation in C with thread scheduling & paging strategies ([Coursework](https://github.com/Kaston-C/Portfolio/tree/main/coursework))
 - 🧠 [ML for Prosthetic Intent](https://github.com/Kaston-C/Portfolio/tree/main/research) – TCN-based motion intent prediction using kinematic data
