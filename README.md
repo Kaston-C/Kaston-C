@@ -5,8 +5,9 @@
 
 ---
 
-## 🔧 What I Build
+## 🔧 What I've Built
 
+- ☁️ [Mini-Cloud](https://github.com/Kaston-C/mini-cloud) - Lightweight cloud infrastructure with multi-node scheduling and resource management using Go and Docker
 - 🚦 [Distributed Rate Limiter](https://github.com/Kaston-C/distributed-rate-limiter) – Scalable rate limiting in Go with Redis, Docker, K8s, and Prometheus
 - 🐚 [Custom Unix Shell](https://github.com/Kaston-C/shell) – C-based shell with piping, redirection, history, and autocompletion
 - 🧵 Multipart OS Simulator – Multicore OS emulation in C with thread scheduling & paging strategies ([Coursework](https://github.com/Kaston-C/Portfolio/tree/main/coursework))
